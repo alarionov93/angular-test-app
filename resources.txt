@@ -1,6 +1,6 @@
 -- Web systems --
 
-
+https://tproger.ru/translations/web-architecture-101/, Common web cases, 1
 
 -- JavaScript --
 
